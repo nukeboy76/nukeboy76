@@ -54,6 +54,7 @@ Backend developer specializing in distributed systems, high-load services, and r
 - **[alexcad](https://github.com/nukeboy76/alexcad)** — A cross-platform Flutter application for structural beam analysis with an interactive CAD editor and numerical solver.
 
 ### Connect with me
-[![LeetCode user nukeboy76](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnukeboy76&logo=leetcode&logoColor=yellow)](https://leetcode.com/nukeboy76/)
+
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=a_chechenev&color=blue&labelColor=black)](https://t.me/a_chechenev)  
 [![Email](https://img.shields.io/badge/Email-alexandeer038%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandeer038@gmail.com)
+[![LeetCode user nukeboy76](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fnukeboy76&logo=leetcode&logoColor=yellow)](https://leetcode.com/nukeboy76/)
